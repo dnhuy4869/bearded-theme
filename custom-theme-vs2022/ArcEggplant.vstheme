@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="custom_theme_vs2022" GUID="{66fb5a55-885e-4239-94e4-3cd3c69b2932}" BaseGUID="{f54feaf2-3ccb-4736-80f3-eb00b7baabe9}">
+  <Theme Name="custom_theme_vs2022 (2)" GUID="{ef7e1d90-5ac9-4293-a187-23fc664599b2}" BaseGUID="{f54feaf2-3ccb-4736-80f3-eb00b7baabe9}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF100C1A" />
@@ -5273,7 +5273,7 @@
       </Color>
       <Color Name="Operator">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFCC750D" />
+        <Foreground Type="CT_RAW" Source="FFEACD61" />
       </Color>
       <Color Name="preprocessor text">
         <Background Type="CT_INVALID" Source="00000000" />
