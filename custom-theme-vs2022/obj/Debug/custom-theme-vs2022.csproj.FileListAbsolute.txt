@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\bin\Debug\custom-theme-vs2022.dll
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\bin\Debug\custom-theme-vs2022.pdb
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\bin\Debug\custom-theme-vs2022.pkgdef
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\bin\Debug\custom-theme-vs2022.vsix
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\bin\Debug\extension.vsixmanifest
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\obj\Debug\custom-theme-vs2022.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\obj\Debug\_EmptyResource.resources
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\obj\Debug\custom-theme-vs2022.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\obj\Debug\custom-theme-vs2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\obj\Debug\custom-theme-vs2022.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\obj\Debug\custom-theme-vs2022.dll
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\obj\Debug\custom-theme-vs2022.pdb
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\obj\Debug\custom-theme-vs2022.pkgdef
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\obj\Debug\custom-theme-vs2022.latest.pkgdef
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\obj\Debug\extension.vsixmanifest
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\obj\Debug\files.json
+C:\Users\Admin\Desktop\custom-theme-vs2022\custom-theme-vs2022\obj\Debug\createTemplateManifests.cache
