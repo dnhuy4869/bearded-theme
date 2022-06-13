@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="custom_theme_vs2022 (5)" GUID="{02386c8b-abe8-4a63-a151-1c35bdfdde1b}" BaseGUID="{f54feaf2-3ccb-4736-80f3-eb00b7baabe9}">
+  <Theme Name="custom_theme_vs2022 (6)" GUID="{45df3d40-93bd-4a55-bcd4-115bafc13305}" BaseGUID="{f54feaf2-3ccb-4736-80f3-eb00b7baabe9}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF100C1A" />
@@ -5445,7 +5445,7 @@
       </Color>
       <Color Name="CppNamespaceSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+        <Foreground Type="CT_RAW" Source="FF05D2C1" />
       </Color>
       <Color Name="CppLabelSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
