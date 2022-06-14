@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="custom_theme_vs2022 (7)" GUID="{cfcd0641-da7a-48cb-8783-9ce24ce29e8e}" BaseGUID="{f54feaf2-3ccb-4736-80f3-eb00b7baabe9}">
+  <Theme Name="custom_theme_vs2022 (8)" GUID="{7bb0505a-bdda-47ec-be38-5fb9bc020fd4}" BaseGUID="{f54feaf2-3ccb-4736-80f3-eb00b7baabe9}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF100C1A" />
@@ -7618,7 +7618,7 @@
     <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
       <Color Name="Plain Text">
         <Background Type="CT_RAW" Source="FF181424" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFCBCBCB" />
       </Color>
       <Color Name="Visible Whitespace">
         <Background Type="CT_INVALID" Source="00000000" />
