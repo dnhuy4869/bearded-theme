@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="custom_theme_vs2022 (10)" GUID="{b32874e1-a866-4575-9a97-05317abecf05}" BaseGUID="{f54feaf2-3ccb-4736-80f3-eb00b7baabe9}">
+  <Theme Name="custom_theme_vs2022 (11)" GUID="{78487bba-9be0-46e5-b279-6b5a9a983683}" BaseGUID="{f54feaf2-3ccb-4736-80f3-eb00b7baabe9}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF100C1A" />
@@ -5685,7 +5685,7 @@
       </Color>
       <Color Name="Preprocessor Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9B9B9B" />
+        <Foreground Type="CT_RAW" Source="FFEACD61" />
       </Color>
       <Color Name="SymbolDefinitionClassificationFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
