@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="custom_theme_vs2022 (11)" GUID="{78487bba-9be0-46e5-b279-6b5a9a983683}" BaseGUID="{f54feaf2-3ccb-4736-80f3-eb00b7baabe9}">
+  <Theme Name="custom_theme_vs2022 (12)" GUID="{a760bc90-653a-4d6a-bde8-c3ab224f35c2}" BaseGUID="{f54feaf2-3ccb-4736-80f3-eb00b7baabe9}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF100C1A" />
@@ -5465,15 +5465,15 @@
       </Color>
       <Color Name="CppOperatorSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB4B4B4" />
+        <Foreground Type="CT_RAW" Source="FFEACD61" />
       </Color>
       <Color Name="CppMemberOperatorSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB4B4B4" />
+        <Foreground Type="CT_RAW" Source="FFEACD61" />
       </Color>
       <Color Name="CppNewDeleteSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FFEACD61" />
       </Color>
       <Color Name="CppSuggestedActionFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6381,7 +6381,7 @@
       </Color>
       <Color Name="operator - overloaded">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFEACD61" />
       </Color>
       <Color Name="record class name">
         <Background Type="CT_INVALID" Source="00000000" />
