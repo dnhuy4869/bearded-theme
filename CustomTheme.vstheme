@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Bearded Theme Arc Eggplant" GUID="{1be0a0b3-9cb3-4f25-9bc7-0bf7b85033fe}" BaseGUID="{381adaa7-318d-4f8a-9a03-f1d4a5ef4b9c}">
+  <Theme Name="Bearded Theme Arc Eggplant" GUID="{e320c659-a059-454e-a293-dbc0c0f067bc}" BaseGUID="{1be0a0b3-9cb3-4f25-9bc7-0bf7b85033fe}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF100C1A" />
@@ -1672,31 +1672,31 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB78AFF" />
+        <Foreground Type="CT_RAW" Source="FF05D2C1" />
       </Color>
       <Color Name="namespace name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB78AFF" />
+        <Foreground Type="CT_RAW" Source="FFEACD61" />
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB78AFF" />
+        <Foreground Type="CT_RAW" Source="FF05D2C1" />
       </Color>
       <Color Name="enum name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB78AFF" />
+        <Foreground Type="CT_RAW" Source="FF05D2C1" />
       </Color>
       <Color Name="interface name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB78AFF" />
+        <Foreground Type="CT_RAW" Source="FF05D2C1" />
       </Color>
       <Color Name="struct name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB78AFF" />
+        <Foreground Type="CT_RAW" Source="FF05D2C1" />
       </Color>
       <Color Name="type parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB78AFF" />
+        <Foreground Type="CT_RAW" Source="FF05D2C1" />
       </Color>
       <Color Name="xml doc comment - delimiter">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1724,23 +1724,23 @@
       </Color>
       <Color Name="event name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0F29D5" />
+        <Foreground Type="CT_RAW" Source="FF05D2C1" />
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF1FF73" />
+        <Foreground Type="CT_RAW" Source="FFFF738A" />
       </Color>
       <Color Name="field name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF75FF73" />
+        <Foreground Type="CT_RAW" Source="FFFF955C" />
       </Color>
       <Color Name="constant name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB51FD5" />
+        <Foreground Type="CT_RAW" Source="FFFF738A" />
       </Color>
       <Color Name="enum member name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFD3B0C" />
+        <Foreground Type="CT_RAW" Source="FFFF955C" />
       </Color>
       <Color Name="xml doc comment - name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1932,7 +1932,7 @@
       </Color>
       <Color Name="CppEventSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+        <Foreground Type="CT_RAW" Source="FF05D2C1" />
       </Color>
       <Color Name="CppClassTemplateSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2176,7 +2176,7 @@
       </Color>
       <Color Name="MarkerFormatDefinition/ScopeHighlight">
         <Background Type="CT_RAW" Source="FF0F202D" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF0DEE3B" />
       </Color>
       <Color Name="Excluded Code">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -2707,7 +2707,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="TextMate.Classifier">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF05D2C1" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Peek History Selected">
@@ -2755,12 +2755,12 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="BraceCompletionClosingBrace">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF3A3850" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Selected Line Number">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="90585775" />
       </Color>
       <Color Name="Selected Text in High Contrast">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -3024,7 +3024,7 @@
       </Color>
       <Color Name="FSharp.MutableVar">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFF738A" />
       </Color>
       <Color Name="FSharp.Printf">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7989,7 +7989,7 @@
       </Color>
       <Color Name="Brace Matching (Highlight)">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF29263A" />
+        <Foreground Type="CT_RAW" Source="FF0DEF1A" />
       </Color>
       <Color Name="information">
         <Background Type="CT_INVALID" Source="00000000" />

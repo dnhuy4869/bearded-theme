@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="custom_theme_vs2022.f2be6083-da8f-4d37-81ba-448ed4315ced" Version="1.3" Language="en-US" Publisher="dnhuy4869" />
+        <Identity Id="custom_theme_vs2022.f2be6083-da8f-4d37-81ba-448ed4315ced" Version="1.4" Language="en-US" Publisher="dnhuy4869" />
         <DisplayName>Bearded Theme Arc Eggplant</DisplayName>
         <Description xml:space="preserve">Dark theme for Visual Studio 2022.</Description>
     </Metadata>
