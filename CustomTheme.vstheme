@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Bearded Theme Arc Eggplant" GUID="{381adaa7-318d-4f8a-9a03-f1d4a5ef4b9c}" BaseGUID="{37d695b8-3aa4-4997-8725-f4d39bb20f66}">
+  <Theme Name="Bearded Theme Arc Eggplant" GUID="{1be0a0b3-9cb3-4f25-9bc7-0bf7b85033fe}" BaseGUID="{381adaa7-318d-4f8a-9a03-f1d4a5ef4b9c}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF100C1A" />
@@ -7989,7 +7989,7 @@
       </Color>
       <Color Name="Brace Matching (Highlight)">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF29263A" />
       </Color>
       <Color Name="information">
         <Background Type="CT_INVALID" Source="00000000" />
