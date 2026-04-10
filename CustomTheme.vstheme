@@ -5316,8 +5316,12 @@
 				<Foreground Type="CT_RAW" Source="50585775" />
 			</Color>
 			<Color Name="CurrentLineActiveFormat">
-				<Background Type="CT_RAW" Source="FF322F45" />
-				<Foreground Type="CT_RAW" Source="FF262236" />
+				<Background Type="CT_RAW" Source="FF181424" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="CurrentLineInactiveFormat">
+				<Background Type="CT_RAW" Source="FF181424" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="outlining.collapsehintadornment">
 				<Background Type="CT_RAW" Source="FF1D1A2B" />
@@ -5333,6 +5337,10 @@
 			</Color>
 			<Color Name="MarkerFormatDefinition/HighlightedWrittenReference">
 				<Background Type="CT_RAW" Source="FF3A3850" />
+				<Foreground Type="CT_RAW" Source="FF181424" />
+			</Color>
+			<Color Name="MarkerFormatDefinition/CppHighlightedDefinition">
+				<Background Type="CT_RAW" Source="FF3A3150" />
 				<Foreground Type="CT_RAW" Source="FF181424" />
 			</Color>
 			<Color Name="Line Number">
@@ -5924,7 +5932,7 @@
 				<Foreground Type="CT_RAW" Source="FFF1F1F1" />
 			</Color>
 			<Color Name="Block Structure Adornments">
-				<Background Type="CT_RAW" Source="FF717171" />
+				<Background Type="CT_RAW" Source="FF43395C" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="Peek Highlighted Text">
@@ -7711,7 +7719,7 @@
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="Brace Matching (Rectangle)">
-				<Background Type="CT_RAW" Source="FF0E4583" />
+				<Background Type="CT_RAW" Source="FF43395C" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="Definition Window Background">
