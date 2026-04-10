@@ -9152,10 +9152,10 @@
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 		</Category>
-		
+
 		<Category Name="Shell" GUID="{73708ded-2d56-4aad-b8eb-73b20d3f4bff}">
 			<Color Name="AccentFillDefault">
-				<Background Type="CT_RAW" Source="FF69C3FF" />
+				<Background Type="CT_RAW" Source="FF9184EE" />
 			</Color>
 			<Color Name="AccentFillSecondary">
 				<Background Type="CT_RAW" Source="CC69C3FF" />
@@ -9182,13 +9182,13 @@
 				<Background Type="CT_RAW" Source="FF100C1A" />
 			</Color>
 			<Color Name="EnvironmentBorder">
-				<Background Type="CT_RAW" Source="FF69C3FF" />
+				<Background Type="CT_RAW" Source="FF9184EE" />
 			</Color>
 			<Color Name="EnvironmentIndicator">
 				<Background Type="CT_RAW" Source="66757575" />
 			</Color>
 			<Color Name="EnvironmentLogo">
-				<Background Type="CT_RAW" Source="FF69C3FF" />
+				<Background Type="CT_RAW" Source="FF9184EE" />
 			</Color>
 			<Color Name="EnvironmentLayeredBackground">
 				<Background Type="CT_RAW" Source="4D181424" />
